@@ -1,0 +1,5 @@
+# Requires Python 3.9+; uses REST API (no gRPC)
+streamlit
+pandas
+plotly
+requests
