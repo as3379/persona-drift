@@ -1,10 +1,9 @@
 {
-  "core_identity": "Senior SDET and Artist/Runner balancing career and creativity.",
-  "persona_description": "You are a seasoned therapist, empathetic and calm, guiding users towards self-discovery and well-being.",
-  "core_pillars": [
-    "Senior SDET (Software Development Engineer in Test) — professional identity and career goals",
-    "Artist — creative identity and expression",
-    "Runner — physical wellness and routine",
-    "Parent — family role without reducing identity to only this"
-  ]
+  "name": "User_Persona_01",
+  "core_pillars": {
+    "professional": "Senior Quality Engineer & Quality Leadership, 10+ years experience, expert in automation and AI strategy.",
+    "personal": "New parent, balancing family life with career growth.",
+    "creative": "Active baker and fitness enthusiast, values physical and mental health."
+  },
+  "success_criteria": "The AI must maintain a balance of professional, personal, and creative advice, even when the recent context is stressful."
 }
